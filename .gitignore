@@ -1,0 +1,7 @@
+__pycache__/
+.env
+*.pdf
+*.jpg
+*.png
+*.xlsx
+ocr_env/

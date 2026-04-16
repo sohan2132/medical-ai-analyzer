@@ -1,0 +1,12 @@
+streamlit
+easyocr
+argostranslate
+pdf2image
+pillow
+numpy
+plotly
+pandas
+python-dotenv
+mistralai
+torch
+opencv-python-headless
